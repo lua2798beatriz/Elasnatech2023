@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <h1>CURRÍCULO</h1>
+</head>
+<body bgcolor="#DA70D6">
+
+</body>
+    <P>ANA BEATRIZ FREITAS</P>
+    <ul>
+        <li>DADOS PESSOAIS</li>
+        <H2> EMAIL: ACADEMICOANA34@GMAIL.COM</H2>
+        <H3>ENDEREÇO:AVENIDA OSCAR NIEMEYER N°304 CONDOMÍNIO GARSAS DO VALE</H3>
+    <H4> TELEFONE PARA CONTATO: (67)9875-6434</H4>
+    /ul>
+    
+    <br>
+    <hr>
+    <br>
+    <LI>FORMAÇÃO ACADÊMICA</LI>
+    <H4>GRADUAÇÃO EM TECNOLOGIA DA INFORMAÇÃO PELA UNIVERSIDADE FEDERAL DO PARANÁ-UFPR
+        2010-2014 </H4>
+        <H5>TÉCNÓLOGO EM SISTEMAS PARA INTERNET PELO INSTITUTO FEDERAL DE EDUCAÇÃO E TECNOLOGIA DE SÃO PAULO-IFSP
+            2015-2017
+        </H5>
+        <LI>EXPERIÊNCIA</LI>
+        <H6>ESTÁGIO DE SÊNIOR NO GOOGLE BRASIL- DESENVOLVEDOR WEB- BACK END</H6>
+         <H7>ESTÁGIO DE JUNIOR NA DELL BRASIL- DESENVOLVEDOR BACK END</H7> 
+
+        </bod
+y>
+</html>
