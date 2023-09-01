@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #c8c7c8;
+    color: rgb(24, 74, 107);
+}
+
+
+.coluna1{
+    float: right;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+    text-size-adjust: 34%;
+}
+
+
+header{
+    text-align: center;
+    padding: 10px 16px;
+
+  background: #c3c2c2;
+
+  color: #0a4458;
+}
+/* Page content */
+.content {
+  padding: 16px;
+  text-align: center;
+}
+#primeira-parte{
+    display: flex;
+    background-color: #297a8c;
+    color: antiquewhite;
+    align-items: center;
+    justify-content: space-around;
+    text-align: left;
+}
+
+
+#estistica-titulo-img{
+    padding-right: 5%;
+    display: flex;
+    height: 60vh;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#ef9c0d;
+    color: #1b7083;
+    text-align: center;
+    
+}
+#segunda-parte{
+    padding-right: 5%;
+    display: flex;
+    height: 60vh;
+    margin: top 30px; ;
+    background-color: #297a8c;
+    color: antiquewhite;
+    align-items: center;
+    justify-content: space-around;
+    text-align:center;
+}
+#Lua{
+    padding-right:5%;
+    display: flex;
+    height: 60vh;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#640b3d;
+    color: #da9f0a;
+    text-align: center
+}
+
+
+footer{
+    text-align: center;
+    background-color: #b1babb;
+    color: #0e5566;
+    height: auto;
+    width: 100%;
+    font-size: 20px;
+    font-family: helvetica;
+    position: absolute;
+}
+.rodape a{
+    text-decoration: none;
+    color: white;
+}
+.rodape p{
+    margin-bottom: 0px;
+}
+.rodape-div{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    margin: 0%;
+    align-items: stretcsel;
+    padding: 0%;
+}
+.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4{
+    display: display;
+    width: calc(100% / 4 - 20px);
+    padding: 10px;
+}
+.rodape span{
+    font-size: 50%;
+    color: white;
+}
+.rodape-direitos{
+    width: calc(100% - 20px);
+    background-color: #ef9c0d;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+/*mobile*/
+@media (max-width: 1100px) {
+    .rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4{
+        width: calc(50% - 20px);
+        padding: 10px;
+    }
+    .rodape-div{
+        padding: 70px 0px 40px 0px;
+    }
+}
